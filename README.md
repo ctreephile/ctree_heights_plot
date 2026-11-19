@@ -3,8 +3,7 @@
 一般化コラッツ写像 $(p, Q)$ の軌道計算・逆向きコラッツ木（CTree）の可視化・大規模探索を行うための解析ツール群および対話型 Web アプリケーションです。
 
 * **Qiita Advent Calendar 2026 連載**: [CTree観察記〜コラッツ予想のつくる森](https://qiita.com/advent-calendar/2026/ctree_watching)
-* **GitHub Repository**: `https://github.com/<your-username>/ctree_heights_plot`（公開時に設定）
-
+* **GitHub Repository**: `https://github.com/ctreephile/ctree_heights_plot`
 ---
 
 ## 概要：一般化コラッツ写像 $(p, Q)$
