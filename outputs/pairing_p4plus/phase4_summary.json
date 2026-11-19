@@ -1,0 +1,12 @@
+{
+  "elapsed_sec": 5.206,
+  "charts": [
+    "outputs/pairing_p4plus/charts/fig1_p4_mod13_equality_and_swap.png",
+    "outputs/pairing_p4plus/charts/fig2_cross_p_equality_and_inclusion.png",
+    "outputs/pairing_p4plus/charts/fig3_jacobi_and_shifted_walls.png",
+    "outputs/pairing_p4plus/charts/fig4_higher_order_residues.png",
+    "outputs/pairing_p4plus/charts/fig5_nested_and_orthogonal_cross_p.png",
+    "outputs/pairing_p4plus/charts/fig6_scaling_v_vs_n.png",
+    "outputs/pairing_p4plus/charts/fig7_theory_map_p3_to_p9.png"
+  ]
+}

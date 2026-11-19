@@ -1,0 +1,10 @@
+{
+  "elapsed_sec": 33.416,
+  "unique_systems_100k": 161,
+  "pairs_100k": 1102,
+  "unconverged_100k": 0,
+  "unique_systems_1m": 38,
+  "highlight_pairs_1m": 22,
+  "unconverged_1m": 0,
+  "leakage_nonzero_count": 0
+}

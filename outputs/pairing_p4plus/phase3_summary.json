@@ -1,0 +1,19 @@
+{
+  "elapsed_sec": 11.562,
+  "unique_systems_100k": 30,
+  "pairs_100k": 34,
+  "unconverged_100k": 0,
+  "unique_systems_1m": 21,
+  "highlight_pairs_1m": 15,
+  "unconverged_1m": 0,
+  "leakage_nonzero_count": 0,
+  "orthogonal_p6_vs_p8_mod19_coset_matrix_1m": {
+    "19N x 19N": 52631,
+    "Q6_0 x C8_0": 157896,
+    "Q6_0 x C8_1": 157894,
+    "Q6_0 x C8_2": 157896,
+    "Q6_1 x C8_0": 157894,
+    "Q6_1 x C8_1": 157895,
+    "Q6_1 x C8_2": 157894
+  }
+}

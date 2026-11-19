@@ -1,0 +1,71 @@
+# ==========================================================
+# Python virtual environments & caches
+# ==========================================================
+.venv/
+venv/
+env/
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# ==========================================================
+# Node.js / Frontend
+# (Note: frontend/dist/ is intentionally NOT ignored so that
+#  cloning on Ubuntu works out-of-the-box without npm build)
+# ==========================================================
+node_modules/
+frontend/node_modules/
+
+# ==========================================================
+# Large generated databases & batch image directories
+# ==========================================================
+DB/
+Images/
+data/
+*.db
+*.db-journal
+*.db-wal
+*.db-shm
+*.sqlite
+*.sqlite3
+*.npz
+
+# Ignore heavy vector SVG outputs in outputs/ while keeping
+# lightweight CSV summaries and summary PNGs
+outputs/*.svg
+*.svg
+*.png
+*.jpg
+# ==========================================================
+# Runtime logs
+# ==========================================================
+logs/
+*.log
+
+# ==========================================================
+# OS & Editor files
+# ==========================================================
+.DS_Store
+Thumbs.db
+Desktop.ini
+.vscode/
+.idea/
+*~
+.qiita_token
+.env
+.chrome_profile/
+
+# ==========================================================
+# Private notes, Advent Calendar drafts & local work artifacts
+# ==========================================================
+docs/
+AdCal/
+answer_2.pdf
+backup.sh
+p4_loop_counts_30x30.csv
+pairing_ctrees
+output/
+
